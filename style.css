@@ -1,0 +1,55 @@
+/* color palate https://coolors.co/0c1618-004a43-faf4d3-d1ac00-f6be9a */
+
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-image: url(img/roach_background_lowcontrast.png);
+    background-repeat: no-repeat;
+    background-color: rgb(12, 22, 24);
+    background-position: center;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+p {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+/* header properties */
+
+header {
+    width: 100%;
+    min-height: 100px;
+    background-color: rgb(12, 22, 24);
+    color:black;
+    position: relative;
+    top: -5%;
+}
+
+/* main properties */
+
+main {
+    margin: 12%;
+}
+
+/* footer properties */
+
+
+footer {
+    width: 100%;
+    min-height: 100px;
+    background-color: rgb(12, 22, 24);
+    color:white;
+    position: relative;
+    top: 20%;
+}
+
+
